@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 def add(a, b):
-    pass
+    return a + b
 
 
 def sub(a, b):
